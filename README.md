@@ -6,4 +6,6 @@ My data science exercise, predicts Significant Earthquake.
 Dataset: [Kaggle's Significant-Earthquakes-1965-2016](https://www.kaggle.com/usgs/earthquake-database)
 
 Slideshow
-```jupyter nbconvert "Data Exploration.ipynb" --to slides --post serve```
+```
+jupyter nbconvert "Data Exploration.ipynb" --to slides --post serve
+```
